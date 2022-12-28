@@ -2,8 +2,8 @@
 | No.| DAFTAR ISI | FILE        | GOTO                         |
 |----|------------|-------------|------------------------------|
 | 1. | Pengertian |             | [Menuju Kesini](#pengertian) |
-| 2. | Latihan 1  | Latihan1.py | [Menuju Kesini](#latihan 1)  |
-| 3. | Latihan 2  | Latihan2.py | [Menuju Kesini](#latihan 2)  |
+| 2. | Latihan 1  | Latihan1.py | [Menuju Kesini](#latihan_1)  |
+| 3. | Latihan 2  | Latihan2.py | [Menuju Kesini](#latihan_2)  |
 | 4. | Penutup    |             | [Menuju Kesini](#penutup)    |
 
 Bertemu lagi dengan Saya Rhendy pada pertemuan 14, praktikum ke 12. Pada repository praktikum12 ini,  Saya akan kembali
